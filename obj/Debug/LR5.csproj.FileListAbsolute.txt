@@ -1,0 +1,159 @@
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\LR5.exe.config
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\LR5.exe
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\LR5.pdb
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\OpenCvSharp.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\SharpGL.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\SharpGL.SceneGraph.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\SharpGL.WinForms.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Buffers.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Drawing.Common.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Memory.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.ValueTuple.dll
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\OpenCvSharp.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\SharpGL.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\SharpGL.SceneGraph.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\SharpGL.WinForms.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Buffers.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Drawing.Common.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Memory.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\bin\Debug\System.ValueTuple.xml
+D:\Study\6 sem\Vizualization data\LR5\LR5\obj\Debug\LR5.csproj.AssemblyReference.cache
+D:\Study\6 sem\Vizualization data\LR5\LR5\obj\Debug\LR5.Form1.resources
+D:\Study\6 sem\Vizualization data\LR5\LR5\obj\Debug\LR5.Properties.Resources.resources
+D:\Study\6 sem\Vizualization data\LR5\LR5\obj\Debug\LR5.csproj.GenerateResource.cache
+D:\Study\6 sem\Vizualization data\LR5\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+D:\Study\6 sem\Vizualization data\LR5\LR5\obj\Debug\LR5.csproj.Up2Date
+D:\Study\6 sem\Vizualization data\LR5\LR5\obj\Debug\LR5.exe
+D:\Study\6 sem\Vizualization data\LR5\LR5\obj\Debug\LR5.pdb
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\LR5.exe.config
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\LR5.exe
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\LR5.pdb
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\OpenCvSharp.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\SharpGL.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Buffers.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Drawing.Common.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Memory.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.ValueTuple.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\OpenCvSharp.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\SharpGL.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Buffers.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Drawing.Common.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Memory.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\bin\Debug\System.ValueTuple.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\obj\Debug\LR5.csproj.AssemblyReference.cache
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\obj\Debug\LR5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\obj\Debug\LR5.Form1.resources
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\obj\Debug\LR5.Properties.Resources.resources
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\obj\Debug\LR5.csproj.GenerateResource.cache
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\obj\Debug\LR5.csproj.CopyComplete
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\obj\Debug\LR5.exe
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\lab05\LR5\obj\Debug\LR5.pdb
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\LR5.exe.config
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\LR5.exe
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\LR5.pdb
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\OpenCvSharp.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\SharpGL.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Buffers.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Drawing.Common.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Memory.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.ValueTuple.dll
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\OpenCvSharp.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\SharpGL.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Buffers.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Drawing.Common.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Memory.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\bin\Debug\System.ValueTuple.xml
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\obj\Debug\LR5.csproj.AssemblyReference.cache
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\obj\Debug\LR5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\obj\Debug\LR5.Form1.resources
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\obj\Debug\LR5.Properties.Resources.resources
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\obj\Debug\LR5.csproj.GenerateResource.cache
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\obj\Debug\LR5.csproj.CopyComplete
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\obj\Debug\LR5.exe
+C:\Users\Stepan\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\Рабочий стол\визуализация\lab05\LR5\obj\Debug\LR5.pdb
+C:\Users\Stepan\source\repos\LR5\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\LR5.exe.config
+C:\Users\Stepan\source\repos\LR5\bin\Debug\LR5.exe
+C:\Users\Stepan\source\repos\LR5\bin\Debug\LR5.pdb
+C:\Users\Stepan\source\repos\LR5\bin\Debug\OpenCvSharp.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\SharpGL.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Buffers.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Drawing.Common.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Memory.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.ValueTuple.dll
+C:\Users\Stepan\source\repos\LR5\bin\Debug\OpenCvSharp.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\SharpGL.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Buffers.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Drawing.Common.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Memory.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stepan\source\repos\LR5\bin\Debug\System.ValueTuple.xml
+C:\Users\Stepan\source\repos\LR5\obj\Debug\LR5.csproj.AssemblyReference.cache
+C:\Users\Stepan\source\repos\LR5\obj\Debug\LR5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stepan\source\repos\LR5\obj\Debug\LR5.Form1.resources
+C:\Users\Stepan\source\repos\LR5\obj\Debug\LR5.Properties.Resources.resources
+C:\Users\Stepan\source\repos\LR5\obj\Debug\LR5.csproj.GenerateResource.cache
+C:\Users\Stepan\source\repos\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\source\repos\LR5\obj\Debug\LR5.csproj.CopyComplete
+C:\Users\Stepan\source\repos\LR5\obj\Debug\LR5.exe
+C:\Users\Stepan\source\repos\LR5\obj\Debug\LR5.pdb
