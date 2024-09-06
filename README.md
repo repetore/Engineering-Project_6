@@ -9,3 +9,4 @@ In this project were used SharpGL, OpenCVSharp as main libraries. Programm was d
 It can be helpful in different ways such as computer vision recognition complexes.
 
 To make story short: this project is the homemade version of Apple Vision Pro software :D
+![изображение](https://github.com/user-attachments/assets/3016abb1-5023-46f3-9d47-ae07f7c3a151)
